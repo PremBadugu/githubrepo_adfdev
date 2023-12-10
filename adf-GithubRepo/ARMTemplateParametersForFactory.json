@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "adf-GithubRepo"
+		},
+		"ls_AzureBlob_sadevforadf_connectionString": {
+			"value": ""
 		}
 	}
 }
