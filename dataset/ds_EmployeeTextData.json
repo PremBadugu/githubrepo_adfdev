@@ -1,0 +1,19 @@
+{
+	"name": "ds_EmployeeTextData",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_AzureBlob_sadevforadf",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "Employee.csv",
+				"folderPath": "Input",
+				"container": "cnt-dev"
+			}
+		}
+	}
+}
