@@ -1,0 +1,9 @@
+{
+	"name": "adf-GithubRepo",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4103aad2-c948-486e-8c49-5505d9bdad09",
+		"tenantId": "29632400-ebc7-4d57-8c24-b3a087474525"
+	}
+}
